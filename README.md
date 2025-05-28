@@ -1,9 +1,9 @@
 # blogger
 Hands-on process of building a Medium like application 
 
-Step 1 — The stack
-We’ll be building medium in the following stack
-React in the frontend
+The stack
+We’ll be building medium in the following stack\\n
+React in the frontend\\n
 Cloudflare workers in the backend
 zod as the validation library, type inference for the frontend types
 Typescript as the language
